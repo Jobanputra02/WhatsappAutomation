@@ -391,7 +391,7 @@ def only_admin_can_send_msgs(group_name):
 # --- In Development
 
 
-send_msg('919974595905', "Hello, This is Test Message")
+send_msg('91XXXXXXXXXX', "Hello, This is Test Message")
 
 
 # cd C:/Program Files/BraveSoftware/Brave-Browser/Application && brave.exe --remote-debugging-port=9222 -user-data-dir="C:\Program Files\100 Days Of Python\Selenium Data"
