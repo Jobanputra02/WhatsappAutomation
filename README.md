@@ -1,3 +1,5 @@
+# WhatsApp Automation
+
 ## Features
 
 - Automated login using saved browser session data
